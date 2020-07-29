@@ -1,0 +1,24 @@
+{
+  "name": "e2_group",
+  "version": "1.0.0",
+  "description": "Bridgeport Masters people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhoomeshwar/E2_Group.git"
+  },
+  "keywords": [
+    "E2",
+    "Masters",
+    "Bridgeport"
+  ],
+  "author": "Bhoomeshwar Dyavanapally <dyavanapallybhoomeshwar@johndeere.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhoomeshwar/E2_Group/issues"
+  },
+  "homepage": "https://github.com/bhoomeshwar/E2_Group#readme"
+}
